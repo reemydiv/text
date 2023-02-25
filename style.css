@@ -1,0 +1,30 @@
+
+.body{
+    position: relative;
+}
+.new-move2 img{
+
+height: 100px;
+width: 100px;
+display: block;
+opacity: .6;
+
+}
+.new-move2 img:hover{
+    opacity: 1;
+}
+.new-move1{
+margin-left: 200px;
+margin-top: 100px;
+}
+.new-move3{
+margin-left: 10px;
+
+}
+.new-move3 img{
+    height: 500px;
+    width: 500px;
+    margin-left: 320px;
+    position: absolute;
+    top:70px;
+}
